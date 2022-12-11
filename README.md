@@ -1,0 +1,1 @@
+Juego del ahorcado, creado con la ayuda y enseñansas de la plataforma Alura.
